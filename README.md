@@ -1,4 +1,9 @@
-### Hi there 👋
+### Soojin
+
+Medical AI Research Engineer of AIMedic, 2020.04. ~
+
+데이터 엔지니어링과 MLOps에 관심이 있습니다.
+취미로 Flutter 개발을 합니다.
 
 <!--
 **sooooojinlee/sooooojinlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
