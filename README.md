@@ -1,6 +1,7 @@
 ### Soojin
 
-Medical AI Research Engineer of AIMedic, 2020.04. ~
+Data Engineer of Tripbtoz, 2022.11. ~
+Medical AI Research Engineer of AIMedic, 2020.04. ~ 2022.10.
 
 데이터 엔지니어링과 MLOps에 관심이 있습니다.
 취미로 Flutter 개발을 합니다.
